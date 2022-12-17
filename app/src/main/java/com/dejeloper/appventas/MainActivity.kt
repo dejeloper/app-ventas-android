@@ -15,7 +15,6 @@ class MainActivity : AppCompatActivity(), AdapterView.OnItemClickListener {
     private lateinit var autvStatus: AutoCompleteTextView
     private lateinit var btnAdd: Button
 
-    //    private lateinit var btnView: Button
     private lateinit var btnUpdate: Button
 
     private lateinit var sqLiteHelper: SQLiteHelper
@@ -139,7 +138,6 @@ class MainActivity : AppCompatActivity(), AdapterView.OnItemClickListener {
         txtName = findViewById(R.id.edName)
         autvStatus = findViewById(R.id.autvStatus)
         btnAdd = findViewById(R.id.btnAdd)
-        //btnView = findViewById(R.id.btnView)
         btnUpdate = findViewById(R.id.btnUpdate)
 
         loadStatus()

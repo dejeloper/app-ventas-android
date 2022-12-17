@@ -55,15 +55,6 @@
             android:layout_height="wrap_content"
             android:text="@string/Home_btnAdd"
             android:textAllCaps="false" />
-        <!--
-        <Button
-             android:id="@+id/btnView"
-             android:layout_width="wrap_content"
-             android:layout_height="wrap_content"
-             android:layout_marginStart="8dp"
-             android:text="@string/Home_btnView"
-             android:textAllCaps="false"
-         />-->
 
         <Button
             android:id="@+id/btnUpdate"
