@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App de Ventas</string>
+    <string name="Home_tvWelcome">Bienvenido a la App de Ventas</string>
+    <string name="Home_edName_hint">Nombre</string>
+    <string name="Home_autvStatus_hint">Estado</string>
+    <string name="Home_btnAdd">Agregar</string>
+    <string name="Home_btnView">Ver</string>
+    <string name="Home_btnUpdate">Actualizar</string>
+    <string name="Home_btnDelete">Eliminar</string>
+</resources>
